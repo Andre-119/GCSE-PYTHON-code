@@ -1,0 +1,16 @@
+print("enterrr")
+print("ANDRE F")
+print("neuueeeueooo")
+print("ANDRE F")
+print("ANDRE F")#THIS IS A STRIONG
+print(6)#THIS IS AN INTEGER
+print(6.7)#THIS IS AN FLOAT
+print("6")#THIS IS A CHARACTER
+print(True)#THIS IS AN BOOLIAN
+#DATA TYPES
+#CRIBS
+#C= CHARACTER E.G."A"
+#R= REAL/FLOAT E.G. "2.222"
+#I= INTEGER E.G. "6"
+#B= BOOLEAN E.G. "TRUE"
+#S= STRING E.G. "HELLO"
