@@ -1,0 +1,19 @@
+#INPUTS EXPLAINED!!!
+#INPUT IS ANOTHER FUNCTION
+#HERE IS AN EXAMPLE
+
+name = str(input("enter name "))#casting for string
+print ("yo name be", name)
+
+age = int(input("how old r u "))casting #castiong for integer
+PRINT ("YOU ARE",age "OLD")  
+
+fav_float = float(input("fav float "))#casting for float
+print ("yo fav float", fav_float)
+
+name = str(input("enter name "))
+print ("yo name be", name)
+
+color = str(input("enter FAV COLOR "))
+print ("yo FAV COLOUR", color)
+
