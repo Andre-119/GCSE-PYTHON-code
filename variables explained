@@ -1,0 +1,28 @@
+#variables explained
+
+#variable definition:
+#a named locATION
+#IN A COMPUTERS MEMORY
+#THAT STORES A VALUE
+#AND VALUE CAN CHANGE
+
+#EXAMPLE:
+name =  "Andre fritsch"#this is a variable
+#The variable is vcalled'name'
+#the variable contains a value, "Andre fritsch"
+AGE = 14
+Football_team = "AC MILAN"
+favourite_colour = "blue"
+
+character = "$"
+real_float = 4.22
+facourite_num = 25
+boolean =  True
+string = "Hello world"
+
+print ("This is a character",character)
+print ("This is a FLOAT",real_float)
+print ("This is a INTEGER",facourite_num)
+print ("This is a BOOLEAN",boolean)
+print ("This is a STRING",string)
+
