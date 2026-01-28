@@ -1,0 +1,5 @@
+name= input("wasw yo name")
+intger= int(input("how old is u"))
+
+for i in range (intger):
+       print(name)
