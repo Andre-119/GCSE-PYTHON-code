@@ -1,0 +1,3 @@
+name= input("waws yo name")
+for i in (name):
+    print(i)
