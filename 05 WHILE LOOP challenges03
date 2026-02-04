@@ -1,0 +1,9 @@
+num= 0
+num= int(input("enter num"))
+ 
+repeat="Y"
+while repeat == "Y":
+    num2= int(input("enter num"))
+    num=num+num2
+    repeat=input(" y or n").upper()
+print(num)
