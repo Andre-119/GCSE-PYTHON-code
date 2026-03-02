@@ -1,0 +1,6 @@
+firstline=input("sing a nursery ryhm")
+length= (len(firstline))
+print("this has",length,"letters in it")
+start=int(input("start"))
+finish=int(input("end"))
+print(firstline[start:finish])
