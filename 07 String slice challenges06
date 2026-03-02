@@ -1,0 +1,11 @@
+firstnam=input("enter your first name")
+
+if len(firstnam) <= 5:
+    lastnam=input("enter your last name")
+    fullnam = firstnam, + lastnam
+    firstnam=firstnam.upper()
+    print(firstnam)
+
+else:
+    print(firstnam.lower())
+    
