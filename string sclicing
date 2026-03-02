@@ -1,0 +1,10 @@
+#string dlicing explained
+
+fruit = "raspberry"
+print(fruit[1])
+#above is a variable that  contains a string
+#the printfunction prints from he variable, but has square brackets
+#square brackets are an index
+
+person="MAdAM"
+print(person[0:4])
