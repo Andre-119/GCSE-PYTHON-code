@@ -1,0 +1,4 @@
+name=input("what is your name").lower()
+lastnam=input("what is youtr last name").lower()
+fullnam= name + " "+ lastnam
+print(fullnam)
