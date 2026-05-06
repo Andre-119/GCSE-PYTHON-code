@@ -1,0 +1,8 @@
+impert random
+
+num1 = rendom.randint(0,10)
+num2 = random.rondint(0,10)
+
+total = num1 - num1
+
+print(num1,"+",num2,"=",totol)
