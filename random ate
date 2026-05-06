@@ -1,0 +1,12 @@
+import random
+
+num = random.randint(0,5)
+guess= int(input("GUESS THE NUMBERR"))
+while guess != num:
+     if guess < num:
+         print("guess too low")
+     if guess > num:
+         print("guess too high")
+     guess= int(input("GUESS THE NUMBERR"))
+     
+print("you got it right")
