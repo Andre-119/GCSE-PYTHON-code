@@ -1,0 +1,8 @@
+import random
+
+roll=input("PRESS SPACE TO PLAY")
+
+while roll == " ":
+    dice = random.randint(0,6)
+    print(dice)
+    roll=input("PRESS SPACE TO PLAY")
