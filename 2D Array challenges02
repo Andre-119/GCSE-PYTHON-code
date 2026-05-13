@@ -1,0 +1,4 @@
+msp=["Rocket pack","moon base","moon buggy"]
+print(msp)
+msp[0] = ("Rich people going to Mars")
+print(msp)
