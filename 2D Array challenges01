@@ -1,0 +1,9 @@
+msp=[]
+print(msp)
+vec1 = input("name a verculie ")
+vec2 = input("name a verculie ")
+vec3 = input("name a verculie ")
+msp.append(vec1)
+msp.append(vec2)
+msp.append(vec3)
+print(msp)
