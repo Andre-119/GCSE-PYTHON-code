@@ -1,0 +1,28 @@
+#casting explained
+
+num1 = "1"
+num2 = "2"
+
+total = num1 + num2
+print (total)
+
+#when adding strings the +
+#becomes a concantination symbol
+#glues strings together
+
+#casting changes data types
+
+num1 = "1"
+num2 = "2"
+
+intnum1 = int(num1)
+intnum2 = int(num2)
+
+
+total = intnum1 + intnum2
+print (total)
+
+
+#casting used for input
+age = int(input("what is your age"))
+print (age)
